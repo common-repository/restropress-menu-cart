@@ -1,0 +1,13 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+.rpmenu-basket svg {
+    padding-top: 14px;
+}
+.rpress-checkout-cart {
+    margin-right: 15px;
+}
+.rpmenu-basket {
+    display: none;
+}
